@@ -16,10 +16,12 @@
    There are two ways to do it:
    - Download the files directly from repository.
    - Using Git:<br>
-     1. Go to the folder you will be keeping your <code>java</code> files. Open the terminal for that folder.
-     2. ```git
+     1. Navigate to the folder where you want to keep your Java files and open the terminal in that folder.
+     2. Run the following commands.
+     3. ```bash
         git init
         ```
-     3. ```git
-        git clone 
+     4. ```bash
+        git clone https://github.com/Somanshu-Mahajan/java-competitive-programming-template.git
+        ```
      
