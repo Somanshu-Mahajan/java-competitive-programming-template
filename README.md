@@ -18,10 +18,10 @@
    - Using Git:<br>
      1. Navigate to the folder where you want to keep your Java files and open the terminal in that folder.
      2. Run the following commands.
-     3. ```bash
+     3. ```sh
         git init
         ```
-     4. ```bash
+     4. ```sh
         git clone https://github.com/Somanshu-Mahajan/java-competitive-programming-template.git
         ```
      
