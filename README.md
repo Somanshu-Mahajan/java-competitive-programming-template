@@ -10,4 +10,16 @@
 3. <b>Git (Optional)</b><br>
    Installation Guide - <a href="https://www.youtube.com/watch?v=t2-l3WvWvqg">Amit Thinks</a>
 > Note : Always look for latest version available.
-   
+
+## How To Setup ?
+1. Download <code>.vscode</code> folder, <code>Template.java</code>, <code>input.txt</code> and <code>output.txt</code> files from this repository.<br>
+   There are two ways to do it:
+   - Download the files directly from repository.
+   - Using Git:<br>
+     1. Go to the folder you will be keeping your <code>java</code> files. Open the terminal for that folder.
+     2. ```git
+        git init
+        ```
+     3. ```git
+        git clone 
+     
