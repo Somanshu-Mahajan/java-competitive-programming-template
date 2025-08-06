@@ -1,3 +1,11 @@
+import java.io.BufferedReader;
+import java.io.BufferedWriter;
+import java.io.IOException;
+import java.io.InputStreamReader;
+import java.io.OutputStreamWriter;
+import java.util.StringTokenizer;
+
+public final class YourClassName{
     static class FastReader {
         BufferedReader br;
         StringTokenizer st;
@@ -67,10 +75,12 @@
             FastWriter out = new FastWriter();
             int testcase = in.nextInt();
             while (testcase-- > 0) {
-                
+                // your code goes here
             }
             out.close();
         } catch (Exception e) {
             return;
         }
+
     }
+}
