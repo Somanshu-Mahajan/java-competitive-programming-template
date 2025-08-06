@@ -5,7 +5,7 @@ import java.io.InputStreamReader;
 import java.io.OutputStreamWriter;
 import java.util.StringTokenizer;
 
-public final class YourClassName{
+public final class Template{
     static class FastReader {
         BufferedReader br;
         StringTokenizer st;
@@ -84,3 +84,4 @@ public final class YourClassName{
 
     }
 }
+
