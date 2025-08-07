@@ -48,8 +48,13 @@
 8. You will see the output in <code>output.txt file</code>.<br>
    <img width="2790" height="1212" alt="image" src="https://github.com/user-attachments/assets/7c64a109-6cf2-4c0c-a408-7451df434fca" />
 
+## Input / Output
+1. No need of <code>Scanner</code> class for I/O operations.
+2. Simply use <code>in.</code> for any input and <code>out.</code> for printing.
+3. Refer to the example shared above.
+
 ## You are ready to code. Happy coding.
 
-
+### Enjoyed this repo? A ⭐ lets me know it was worth sharing!
 
    
