@@ -16,6 +16,7 @@
    There are two ways to do it:
    - Download the files directly from repository.<br>
      <img width="2092" height="796" alt="image" src="https://github.com/user-attachments/assets/962d0255-bbf8-4e83-a00d-0089e9ed9815" />
+     Extract the files to the location where you want to keep your Java files.
 
    - Using Git:<br>
      1. Navigate to the folder where you want to keep your Java files and open the terminal in that folder.
