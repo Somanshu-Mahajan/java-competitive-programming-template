@@ -14,7 +14,9 @@
 ## How To Setup ?
 1. Download <code>.vscode</code> folder, <code>Template.java</code>, <code>input.txt</code> and <code>output.txt</code> files from this repository.<br>
    There are two ways to do it:
-   - Download the files directly from repository.
+   - Download the files directly from repository.<br>
+     <img width="2092" height="796" alt="image" src="https://github.com/user-attachments/assets/962d0255-bbf8-4e83-a00d-0089e9ed9815" />
+
    - Using Git:<br>
      1. Navigate to the folder where you want to keep your Java files and open the terminal in that folder.
      2. Run the following commands.
