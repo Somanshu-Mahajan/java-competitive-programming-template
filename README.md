@@ -20,11 +20,23 @@
 
    - Using Git:<br>
      1. Navigate to the folder where you want to keep your Java files and open the terminal in that folder.
-     2. Run the following commands.
-     3. ```sh
+     2. Run the following commands.<br>
+        ```sh
         git init
         ```
-     4. ```sh
+        ```sh
         git clone https://github.com/Somanshu-Mahajan/java-competitive-programming-template.git
         ```
-     
+
+2. Open that folder in Visual Studio Code.
+3. Open all the three files Template.java, input.txt and output.txt in the folder and keep selected Template.java
+   <img width="2408" height="650" alt="image" src="https://github.com/user-attachments/assets/e5d87148-40a1-4911-a7b4-7e0c1186c7d8" />
+
+4. Right click on Template.java and select Split Left.
+   <img width="2788" height="814" alt="image" src="https://github.com/user-attachments/assets/5b89f100-030a-4322-8b7b-fb8ed0555aff" />
+
+5. Right click on output.txt and select Split Down.
+   <img width="2778" height="1591" alt="image" src="https://github.com/user-attachments/assets/3609cb4f-ae80-45fb-9a7b-0d9f4df8a8b9" />
+
+
+   
