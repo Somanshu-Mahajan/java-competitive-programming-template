@@ -45,7 +45,7 @@
 7. To run the file press <code>Ctrl+Shift+B</code>. You will get a dropdown at top. Select <code>compile and run</code>.<br>
    <img width="2796" height="843" alt="image" src="https://github.com/user-attachments/assets/afef94a9-8c2f-44cb-bd68-162f934ddcd7" />
 
-8. You will see the output in <code>output.txt file</code>.<br>
+8. You will see the output in <code>output.txt</code> file.<br>
    <img width="2790" height="1212" alt="image" src="https://github.com/user-attachments/assets/7c64a109-6cf2-4c0c-a408-7451df434fca" />
 
 ## Input / Output
